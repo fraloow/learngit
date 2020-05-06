@@ -1,1 +1,2 @@
-萨达萨达萨达萨达是
+Git is a distributed version control system.
+Git is free software.
